@@ -1,0 +1,16 @@
+{
+  "name": "doi-academy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.12",
+    "vite": "^5.4.6"
+  }
+}
